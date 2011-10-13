@@ -1,0 +1,5 @@
+POPVOX is committed to being a good neighbor in the Open Government community. POPVOX-open is a repository of publicly-available government data that we've formatted for easy use in open government software.
+
+Currently on POPVOX-open:
+
+1. crssubjectterms.csv: The Congressional Research Service categorizes bills in Congress using this list of subject terms, which we've formatted into a csv. The list is available from http://thomas.loc.gov/help/terms-names.html.
